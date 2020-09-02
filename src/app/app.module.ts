@@ -26,3 +26,4 @@ import { TitleComponent } from './shared/title/title.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
